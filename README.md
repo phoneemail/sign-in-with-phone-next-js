@@ -22,9 +22,8 @@ Follow these steps to get started with the Phone Email Demo App in your Next.js 
 
 or 
 
-    ```bash
     yarn add phone-email-next-demo
-    ```
+
 
 2. **Configuration:**
 
@@ -36,6 +35,7 @@ Make sure to configure the Phone Email API by providing the necessary credential
     npm run dev
     ```
 or
+
     ```bash
     yarn dev
     ```
