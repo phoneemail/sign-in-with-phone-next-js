@@ -19,12 +19,11 @@ Follow these steps to get started with the Phone Email Demo App in your Next.js 
    ```bash
    npm install phone-email-next-demo
    ```
-
-or 
-
-    ```bash
+   or 
+   ```bash
     yarn add phone-email-next-demo
-    ```
+   ```
+    
 
 2. **Configuration:**
 
@@ -34,16 +33,19 @@ Make sure to configure the Phone Email API by providing the necessary credential
 
     ```bash
     npm run dev
-    ```
-or
-    ```bash
+    ```    
+   or
+   ```bash
     yarn dev
-    ```
+   ```
+
 
 Open your browser and navigate to http://localhost:3000 to see the demo app in action.
 
-Troubleshooting
+**Troubleshooting**
+
 If you encounter any issues or have questions, please refer to our documentation or reach out to our support team.
 
-Contributing
+**Contributing**
+
 We welcome contributions! If you have any improvements or bug fixes, feel free to submit a pull request.
