@@ -8,7 +8,7 @@ function HomeContent() {
   const accessToken = searchParams.get("access_token");
 
   // Replace with your actual CLIENT_ID
-  const CLIENT_ID = "19442901526990255119";
+  const CLIENT_ID = "****************";
 
   // Use state to manage user details
   const [userDetails, setUserDetails] = useState({
