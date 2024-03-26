@@ -77,4 +77,4 @@ By implementing our plugin, you can elevate the security of your website, enhanc
 ---
 Developed by [Phone Email](https://www.phone.email)
 
-
+![App Logo](https://www.phone.email/assets/imgs/page/homepage/logo.svg)
