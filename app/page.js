@@ -60,7 +60,7 @@ function HomeContent() {
     const left = (window.screen.width - 500) / 2;
 
     const REDIRECT_URL = window.location.href;
-    const AUTH_URL = `https://auth.phone.email/log-in?client_id=${CLIENT_ID}&redirect_url=${REDIRECT_URL}`;
+    const AUTH_URL = `https://www.phone.email/auth/log-in?client_id=${CLIENT_ID}&redirect_url=${REDIRECT_URL}`;
     const APP_SETTING = `toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0, width=500, height=560, top=${top}, left=${left}`;
 
     window.open(AUTH_URL, "peLoginWindow", APP_SETTING);
